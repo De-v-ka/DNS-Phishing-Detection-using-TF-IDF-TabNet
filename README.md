@@ -1,6 +1,5 @@
 # DNS Phishing Detection using TF-IDF & TabNet
 
-![Project Pipeline](pipeline_diagram.png) <!-- Add your diagram here -->
 
 ## 🔍 Overview
 A hybrid machine learning system that detects malicious domains with **98.2% accuracy** by combining:
